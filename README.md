@@ -1,7 +1,7 @@
-# author: Astrid Manuel
-# hello-world
+# Author: Astrid Manuel
+# Hello World
 First Assignment - prints hello world to console
 
-To run:
+# To run:
 javac HelloWorld.java
 java HelloWorld
